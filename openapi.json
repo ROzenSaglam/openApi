@@ -593,6 +593,7 @@
         "tags": [
           "profile"
         ],
+        "summary": "Get groceries list",
         "parameters": [
           {
             "name": "id",
