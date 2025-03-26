@@ -34,6 +34,7 @@
         "tags": [
           "groceries"
         ],
+        "summary": "Get groceries list",
         "parameters": [
           {
             "name": "id",
@@ -165,6 +166,7 @@
         "tags": [
           "groceries"
         ],
+        "summary": "Post groceries list",
         "parameters": [
           {
             "name": "select",
@@ -228,6 +230,7 @@
         "tags": [
           "groceries"
         ],
+        "summary": "Delete groceries list",
         "parameters": [
           {
             "name": "id",
@@ -275,6 +278,7 @@
         "tags": [
           "groceries"
         ],
+        "summary": "Patch groceries list",
         "parameters": [
           {
             "name": "id",
@@ -351,6 +355,7 @@
         "tags": [
           "profile"
         ],
+        "summary": "Get groceries list",
         "parameters": [
           {
             "name": "id",
@@ -524,6 +529,7 @@
         "tags": [
           "profile"
         ],
+        "summary": "Get groceries list",
         "parameters": [
           {
             "name": "select",
@@ -676,6 +682,7 @@
         "tags": [
           "profile"
         ],
+        "summary": "Get groceries list",
         "parameters": [
           {
             "name": "id",
@@ -794,6 +801,7 @@
         "tags": [
           "user"
         ],
+        "summary": "Get groceries list",
         "parameters": [
           {
             "name": "id",
@@ -925,6 +933,7 @@
         "tags": [
           "user"
         ],
+        "summary": "Get groceries list",
         "parameters": [
           {
             "name": "select",
@@ -988,6 +997,7 @@
         "tags": [
           "user"
         ],
+        "summary": "Get groceries list",
         "parameters": [
           {
             "name": "id",
