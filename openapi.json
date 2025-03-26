@@ -1046,6 +1046,7 @@
         "tags": [
           "user"
         ],
+        "summary": "Get groceries list",
         "parameters": [
           {
             "name": "id",
